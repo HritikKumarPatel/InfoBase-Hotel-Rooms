@@ -1,1 +1,1 @@
-
+This website is made using Next js. Here I have used Bayut Api which helps to query real estate in UAE. I have implemented filtering and sorting features here. You can find the live demo of my project here: https://infobase-rooms.netlify.app
